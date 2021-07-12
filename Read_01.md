@@ -10,7 +10,7 @@ How to write in markdown language:
 ## 2nd Largest Heading
 ###### Smallest Heading
 
-#Paragraphs
+# Paragraphs
 
 When writing paragraphs you can make words:<br>
 | syntax | Output |
