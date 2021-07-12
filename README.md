@@ -21,11 +21,12 @@ we need to compare it to the **Fixed Mindset**:
 | Views efforts as meaningless | Believes in the meaning of effort |
 | Ignores criticism | Learns from criticism |
 | Views others success as therats | Gets inspired by others success |
+<br>
 
-What we can understand from all of the above is that, when embracing the **Growth Mindset** your 
+What we can understand from all of the above is that, when embracing the <br>**Growth Mindset** your 
 more likely to go through challengesl and persisting on sloving all obstacles you face, you also
-would be able to look at others success as an inspiration, and learn from others criticism to 
-improve your <br> self.
+would be able <br>to look at others success as an inspiration, and learn from others criticism to 
+improve your self.
 
 If i would remind myself of three things to keep me in the **Growth Mindset**, <br> i would say:<br>
 1. Keep asking for feedback whenever possible.
