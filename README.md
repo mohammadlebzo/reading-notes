@@ -21,7 +21,6 @@ we need to compare it to the **Fixed Mindset**:
 | Views efforts as meaningless | Believes in the meaning of effort |
 | Ignores criticism | Learns from criticism |
 | Views others success as therats | Gets inspired by others success |
-<br>
 
 What we can understand from all of the above is that, when embracing the <br>**Growth Mindset** your 
 more likely to go through challengesl and persisting on sloving all obstacles you face, you also
