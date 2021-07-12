@@ -12,7 +12,7 @@ and that intelligence and talent are simply starting points that you need to bui
 In order for us to understand the benefits of the **Growth Mindset** <br>
 we need to compare it to the **Fixed Mindset**:
 
-<img align="right" width="400" height="400" src="https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2012/04/taschen_informationgraphics10.jpg?w=680&ssl=1">
+<br><img align="right" width="400" height="400" src="https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2012/04/taschen_informationgraphics10.jpg?w=680&ssl=1">
 
 | **Fixed Mindset**        | **Growth Mindset**        |
 |--------------------------|---------------------------|
