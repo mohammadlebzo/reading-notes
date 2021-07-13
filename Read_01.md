@@ -13,8 +13,9 @@ How to write in markdown language:
 # Paragraphs
 
 When writing paragraphs you can make words:<br>
+
 | syntax | Output |
-|--------|--------|
+|------------------------------|----------|
 | ``` **Bold** or __Bold__ ``` | __Bold__ |
 | ``` *Italic* or _Italic_ ``` | _Italic_ |
 | ``` **Bold _Bold and Italic_ Bold** ``` | **Bold _Bold and Italic_ Bold** |
