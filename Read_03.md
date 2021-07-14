@@ -1,5 +1,6 @@
 # Wireframes & HTML: definition and examples
 
+
 ### What is **Wireframes** ?
  Wireframing is a practice used by UX designers which allows them to define and plan the information hierarchy of their design for a website, app, or product. This process focuses on how the designer or client wants the user to process information on a site, based on the user research already performed by the UX design team.
 
