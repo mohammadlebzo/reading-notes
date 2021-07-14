@@ -11,4 +11,3 @@
 | Read_01 | [Read_01](https://mohammadlebzo.github.io/reading-notes/Read_01)|
 | Read_02 | [Read_02](https://mohammadlebzo.github.io/reading-notes/Read_02)
 
-
