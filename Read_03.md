@@ -28,6 +28,7 @@ Here is a cockatiel image:
 
 
 * #### **Basic HTML Code**:
+
 ```
 <!DOCTYPE html>
 <html>
@@ -41,6 +42,7 @@ Here is a cockatiel image:
   </body>
 </html>
 ```
+
 * #### **Semantics in HTML**:
 In programming, **Semantics** refers to the meaning of a piece of code.
 for example:<br>
