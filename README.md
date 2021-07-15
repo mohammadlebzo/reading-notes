@@ -13,3 +13,4 @@
 | Read_03 | [Read_03](https://mohammadlebzo.github.io/reading-notes/Read_03)|
 | Read_04 | [Read_04](https://mohammadlebzo.github.io/reading-notes/Read_04)|
 | Read_05 | [Read_05](https://mohammadlebzo.github.io/reading-notes/Read_05)|
+| Read_06 | [Read_06](https://mohammadlebzo.github.io/reading-notes/Read_06)|
