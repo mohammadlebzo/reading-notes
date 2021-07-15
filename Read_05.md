@@ -31,8 +31,9 @@ I will only be listing the ***assignment operators*** and the ***comparison oper
 
 * **Assignment Operators**:
 
+
 |**Name** | **Shorthand operator** | **Meaning**|
-|---------|------------------------|------------|
+|---------|------------------------|---------------------|
 |Assignment|	x = y | 	x = y |
 |Addition assignment| 	x += y | 	x = x + y |
 |Subtraction assignment| x -= y | 	x = x - y |
