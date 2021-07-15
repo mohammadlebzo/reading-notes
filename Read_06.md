@@ -6,6 +6,7 @@
 ## CSS syntax
 
 * ### External CSS
+
 ```
 <!DOCTYPE html>
 <html>
@@ -20,7 +21,9 @@
 </body>
 </html>
 ```
+
 **"style.css"**
+
 ```
 body 
 {
@@ -40,6 +43,7 @@ p
 ```
 
 * ### Internal CSS
+
 ```
 <!DOCTYPE html>
 <html>
@@ -65,6 +69,7 @@ h1 {
 ```
 
 * ### Inline CSS
+
 ```
 <!DOCTYPE html>
 <html>
