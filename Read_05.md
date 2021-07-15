@@ -31,7 +31,6 @@ I will only be listing the ***assignment operators*** and the ***comparison oper
 
 * **Assignment Operators**:
 
-
 |**Name** | **Shorthand operator** | **Meaning**|
 |---------|------------------------|---------------------|
 |Assignment|	x = y | 	x = y |
@@ -64,7 +63,8 @@ I will only be listing the ***assignment operators*** and the ***comparison oper
 |Greater than or equal (>=)|Returns true if the left operand is greater than or equal to the right operand.|var2 >= var1, var1 >= 3|
 |Less than (<)|Returns true if the left operand is less than the right operand.|var1 < var2, "2" < 12|
 |Less than or equal (<=)|Returns true if the left operand is less than or equal to the right operand.|var1 <= var2, var2 <= 5|
--------
+
+------------------
 
 ### ***Loops***:
 **Loops** offer a quick and easy way to do something repeatedly.
