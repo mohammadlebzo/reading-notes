@@ -7,7 +7,7 @@ The following table describes the precedence of operators, from highest to lowes
 
 
 |**Operator type** | **Individual operators** |
-|---------|------------------------|
+|---------|------------------------------------|
 |member|. []|
 |call / create instance|() new|
 |negation/increment|! ~ - + ++ -- typeof void delete|
