@@ -25,48 +25,50 @@ The code **3 + 4** is an example of the second expression type. This expression 
 
 #### ***Primary Expressions***:
 - **"this"** keyword is used to refer to the current object. In general, this refers to the calling object in a method. Use this either with the dot or the bracket notation:
-```
-this['propertyName']
-this.propertyName
 
-```
+      
+      this['propertyName']
+      this.propertyName
+      
 
 - **Grouping operator**:
 The grouping operator ( ) controls the precedence of evaluation in expressions. For example, you can override multiplication and division first, then addition and subtraction to evaluate addition first.
 
-```
-var a = 1;
-var b = 2;
-var c = 3;
+    
+    var a = 1;
+    var b = 2;
+    var c = 3;
 
-// default precedence
-a + b * c     // 7
-// evaluated by default like this
-a + (b * c)   // 7
+    // default precedence
+    a + b * c     // 7
+    // evaluated by default like this
+    a + (b * c)   // 7
 
-// now overriding precedence
-// addition before multiplication
-(a + b) * c   // 9
+    // now overriding precedence
+    // addition before multiplication
+    (a + b) * c   // 9
 
-// which is equivalent to
-a * c + b * c // 9
-```
+    // which is equivalent to
+    a * c + b * c // 9
+    
 
 #### ***Left-hand-side expressions***:
 Left values are the destination of an assignment.
 
 - **new** operator:
 You can use the new operator to create an instance of a user-defined object type or of one of the built-in object types. Use new as follows:
-```
-var objectName = new objectType([param1, param2, ..., paramN]);
-```
+
+    
+    var objectName = new objectType([param1, param2, ..., paramN]);
+    
 
 - **super** keyword:
 The super keyword is used to call functions on an object's parent. It is useful with classes to call the parent constructor, for example.
-```
-super([arguments]); // calls the parent constructor.
-super.functionOnParent([arguments]);
-```
+
+    
+    super([arguments]); // calls the parent constructor.
+    super.functionOnParent([arguments]);
+    
 
 ### Functions:
 **Functions** are one of the ***fundamental building blocks in JavaScript***.<br> A **function** in JavaScript is similar to a procedure—a set of statements that performs a task or calculates a value, but for a procedure to qualify as a function, it should take some input and return an output where there is some obvious relationship between the input and the output. To use a function, you must define it somewhere in the scope from which you wish to call it.
@@ -80,17 +82,20 @@ A function declaration consists of the function keyword, followed by:
 - The JavaScript statements that define the function, enclosed in curly brackets, {...}.
 
 **Example**:
-```
-function square(number) {
-  return number * number;
-}
-```
+
+    
+    function square(number) {
+      return number * number;
+    }
+    
 
 #### ***Calling functions***:>>
 Defining a function does not execute it. Defining it names the function and specifies what to do when the function is called.
 
 Calling the function actually performs the specified actions with the indicated parameters. For example, if you define the function square, you could call it as follows:
-```
-square(5);
-```
+
+    
+    square(5);
+    
+
 The preceding statement calls the function with an argument of 5. The function executes its statements and returns the value 25.
