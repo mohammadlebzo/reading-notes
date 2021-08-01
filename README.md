@@ -5,7 +5,9 @@
 
 ## Table Of Content:
 
-| Name of The Read | Link |
+### 102 Reading-Notes:
+
+| **Name of The Read** | **Link** |
 |------------------|------|
 | Growth Mindset | [growthMindset](https://mohammadlebzo.github.io/reading-notes/growthMindset)|
 | Read_01 | [Read_01](https://mohammadlebzo.github.io/reading-notes/Read_01)|
@@ -15,3 +17,11 @@
 | Read_05 | [Read_05](https://mohammadlebzo.github.io/reading-notes/Read_05)|
 | Read_06 | [Read_06](https://mohammadlebzo.github.io/reading-notes/Read_06)|
 | Read_07 | [Read_07](https://mohammadlebzo.github.io/reading-notes/Read_07)|
+
+
+### 201 Reading-Notes:
+
+| **Name of The Read** | **Link** |
+|------------------|------|
+|Class_01|[Class_01](https://mohammadlebzo.github.io/reading-notes/Class_01)|
+
