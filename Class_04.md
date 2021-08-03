@@ -165,4 +165,23 @@ When thinking about the appropriate size for the page you should think of using 
 |If the user has a small window, the page can contract to fit it without the user having to scroll to the side.|If the user has a very narrow window, words may be squashed and you can end up with few words on each line.|
 |The design is tolerant of users setting font sizes larger than the designer intended (because the page can stretch).|If you do not control the width of sections of the page then the design can look very different than you intended, with unexpected gaps around certain elements or items squashed together.|
 
+# JavaScript(Functions, Methods and Objects)
+
+1. **Finctions & Methods**: they are a group of statements that perform a specofoc task, except that methods are created inside objects.
+
+2. **Objects**: they are elements that are created from properties and methods.
+
+3. **Built-In Objects**: they are the objects that come with the browser that act like a toolkit for the user to benefit from.
+
+### Declaring and Calling Functions:
+- **Declaring a function**:
+
+```
+function takeInput()
+{
+    let input = prompt('Give input');
+    console.log(input);
+}
+```
+- **Calling a function**: `takeInput();`
 
