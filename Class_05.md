@@ -71,15 +71,16 @@ In order to add **color** to websites we need to use the **color** property, whi
     - **Regular**
     - **Extended**
 
- ### Specifying Typefaces:
+### Specifying Typefaces:
+
  **Typefaces** can be specified using the **font-family** *property*, the *value* of the property is the name of the **typeface**.
 
  **Note**: the property **@font-face** allows you to use a font, even if it's not installed on the computer of the person browsing, by allowing you to specify a path to a copy of the font, which will be downloaded if it is not on the user's machine.
 
- ### Changing the size of the text:
+### Changing the size of the text:
  In order to change the size of the text we can use the **font-size** *property*, the value can be in **pixels**, **percentages** and by using **ems**.
 
- ### Some more text properties:
+### Some more text properties:
  - **font-weight**: allows you to change two values:
     - **normal**: text appear in normal weight.
     - **bold**: text appear **bold**.
