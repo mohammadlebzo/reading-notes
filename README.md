@@ -29,5 +29,6 @@
 |Class_04|[Class_04](https://mohammadlebzo.github.io/reading-notes/Class_04)|
 |Class_05|[Class_05](https://mohammadlebzo.github.io/reading-notes/Class_05)|
 |Class_06|[Class_06](https://mohammadlebzo.github.io/reading-notes/Class_06)|
+|Class_07|[Class_07](https://mohammadlebzo.github.io/reading-notes/Class_07)|
 
 
