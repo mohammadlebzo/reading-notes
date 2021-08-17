@@ -36,5 +36,7 @@
 |Class_11|[Class_11](https://mohammadlebzo.github.io/reading-notes/Class_11)|
 |Class_12|[Class_12](https://mohammadlebzo.github.io/reading-notes/Class_12)|
 |Class_13|[Class_13](https://mohammadlebzo.github.io/reading-notes/Class_13)|
+|Class_14a|[Class_14a](https://mohammadlebzo.github.io/reading-notes/Class_14a)|
+|Class_14b|[Class_14b](https://mohammadlebzo.github.io/reading-notes/Class_14b)|
 
 
