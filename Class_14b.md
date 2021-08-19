@@ -1,19 +1,23 @@
 # What Google Learned From Its Quest to Build the Perfect Team
 
-***In 2011*** **Google** became focused on how to build the perfect team. The company's top executives long believed that building the best teams meant combining the best people. They embraced other bits of conventional wisdom as well, like ‘‘It’s better to put introverts together,’’ said Abeer Dubey, a manager in **Google’s** People Analytics division, or ‘‘Teams are more effective when everyone is friends away from work.’’ But, Dubey went on, ‘‘it turned out no one had really studied which of those were true.’’
+**Google** started this quest in ***2011*** where they were focusing on how to bulid the *perfect team*, at first they thoguht that to build *perfect teams* they should just combine the best people together, but with time they found that this idea was wrong.
 
-***In 2012*** the company embarked on an initiative — code-named [Project Aristotle](https://rework.withgoogle.com/print/guides/5721312655835136/) — to study hundreds of **Google’s** teams and figure out why some stumbled while others soared.
+In order to make the *perfect team* they needed to make a study.
+they had the idea of studying their employees in order to understand how *perfect teams* are built.
 
-**Project Aristotle’s researchers** began by reviewing a half-century of *academic studies* looking at how teams worked. Were the best teams made up of people with *similar interests*? Or did it matter more whether everyone was *motivated by the same kinds of rewards*? No matter how researchers arranged the data, it was almost impossible to find patterns.
+So in ***2012*** they embarked on an initiative — code-named [Project Aristotle](https://rework.withgoogle.com/print/guides/5721312655835136/) — to study hundreds of their employees in order to collect data and find any patterns that they can work with.
 
-As they struggled to figure out what made a team successful, the researchers kept coming across research by psychologists and sociologists that focused on what are known as ‘‘*group norms*’’.
+After that they started to test many things like building teams of people with *similar interests* or people *motivated by the same kinds of rewards*, but still, it was almost impossible to find any patterns. 
 
-**Norms** are the traditions, behavioral standards and unwritten rules that govern how we function when we gather. So ***Project Aristotle’s*** researchers began searching through the data they had collected, looking for norms.
+They struggled for a long time to figure out what made a team successful, but there was one reasearch they kept coming across, that research was focused on something called ‘‘*group norms*’’.
+
+What is **Norms** you may ask ? Well, **norms** are the traditions, behavioral standards and unwritten rules that govern how we function when we gather.
+
+So when they learned about **norms** their researchers started looking through the data they collected, looking for **norms**
 
 ## Conclusion
 
-After looking at over a hundred groups for more than a year, ***Project Aristotle*** researchers concluded that understanding and influencing *group norms* were the keys to improving Google’s teams.
+After looking through handerds of groups data for more than a year, ***Project Aristotle*** researchers concluded that understanding and influencing *group norms* were the keys to improving Google’s teams.
 
-At the end of the story what ***Project Aristotle*** has taught people within **Google** is that no one wants to put on a ‘‘*work face*’’ when they get to the office. No one wants to leave part of their personality and inner life at home. But to be fully present at work, to feel ‘‘psychologically safe,’’ we must know that we can be free enough, sometimes, to share the things that scare us without fear of recriminations. We must be able to talk about what is messy or sad, to have hard conversations with colleagues who are driving us crazy. We can’t be focused just on efficiency. Rather, when we start the morning by collaborating with a team of engineers and then send emails to our marketing colleagues and then jump on a conference call, we want to know that those people really hear us. We want to know that work is more than just labor.
-
+The reasearch taught people within **Google** that no one wants to bottle him/her self when going to work and just do the work, as that would heart the performance of the that person because he/she will be leaving a part of themselves back home where they feel ***psychologically safe***. The workers must be able to feel ***psychologically safe***, to be able to share the things that scare them the most with eachother, they should be able to talk about the things that that are messy or sad, because that builds relations between them to be able to understand eachother and empathize with each other. And thats how the *perfect team* can be built.
 
