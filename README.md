@@ -44,6 +44,7 @@
 | **Name of The Read** | **Link** |
 |------------------|------|
 |Class_01|[Class_01](https://mohammadlebzo.github.io/reading-notes/Code_301_Class_01)|
+|Class_01|[Class_01](https://mohammadlebzo.github.io/reading-notes/Code_301_Class_02)|
 
 ### Code 401 - Advanced Software Development
 
