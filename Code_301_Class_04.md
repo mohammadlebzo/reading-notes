@@ -34,3 +34,7 @@ We **use** the **ternary operator** because it **allows us to assgin one value**
 **ternary statement**:
 
 `console.log(x===y ? 'true' : 'false');`
+
+## Things I want to know more about
+
+None.
