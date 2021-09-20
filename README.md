@@ -50,7 +50,7 @@
 |Class_05|[Class_05](https://mohammadlebzo.github.io/reading-notes/Code_301_Class_05)|
 |Class_06|[Class_06](https://mohammadlebzo.github.io/reading-notes/Code_301_Class_06)|
 |Class_07|[Class_07](https://mohammadlebzo.github.io/reading-notes/Code_301_Class_07)|
-<!-- |Class_08|[Class_08](https://mohammadlebzo.github.io/reading-notes/Code_301_Class_08)| -->
+|Class_08|[Class_08](https://mohammadlebzo.github.io/reading-notes/Code_301_Class_08)|
 <!-- |Class_09|[Class_09](https://mohammadlebzo.github.io/reading-notes/Code_301_Class_09)| -->
 <!-- |Class_10|[Class_10](https://mohammadlebzo.github.io/reading-notes/Code_301_Class_10)| -->
 <!-- |Class_11|[Class_11](https://mohammadlebzo.github.io/reading-notes/Code_301_Class_11)| -->
