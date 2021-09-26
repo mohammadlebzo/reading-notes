@@ -3,7 +3,8 @@
 ## nosql vs sql (part 1)
 
 1. *Fill in the chart below with five differences between SQL and NoSQL databases*: [source](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool)
-|**SQL**|**NoSQL**|
+
+|SQL|NoSQL|
 |-------|---------|
 |Relational Databases|Non-relational or distributed database|
 |Table based databases|Document based, key-value pairs, graph databases or wide-column stores|
