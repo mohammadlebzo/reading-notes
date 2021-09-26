@@ -4,12 +4,12 @@
 
 1. *Fill in the chart below with five differences between SQL and NoSQL databases*: [source](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool)
 |**SQL**|**NoSQL**|
-|---|-----|
-|*Relational Databases*|*Non-relational or distributed database*|
-|*Table based databases*|*Document based, key-value pairs, graph databases or wide-column stores*|
-|*Predefined schema*|*Dynamic schema*|
-|*Vertically scalable*|*Horizontally scalable*|
-|*Uses structured query language*|*Uses unstructured Query Language*|
+|-------|---------|
+|Relational Databases|Non-relational or distributed database|
+|Table based databases|Document based, key-value pairs, graph databases or wide-column stores|
+|Predefined schema|Dynamic schema|
+|Vertically scalable|Horizontally scalable|
+|Uses structured query language|Uses unstructured Query Language|
 
 2. *What kind of data is a good fit for an SQL database*? **Non-hierarchical data storage**.
 3. *Give a real world example*. **MySQL Community Edition**.
