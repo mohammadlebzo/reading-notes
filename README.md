@@ -55,7 +55,7 @@
 |Class_10|[Class_10](https://mohammadlebzo.github.io/reading-notes/Code_301_Class_10)|
 |Class_11|[Class_11](https://mohammadlebzo.github.io/reading-notes/Code_301_Class_11)|
 |Class_12|[Class_12](https://mohammadlebzo.github.io/reading-notes/Code_301_Class_12)|
-<!-- |Class_13|[Class_13](https://mohammadlebzo.github.io/reading-notes/Code_301_Class_13)| -->
+|Class_13|[Class_13](https://mohammadlebzo.github.io/reading-notes/Code_301_Class_13)|
 <!-- |Class_14|[Class_14](https://mohammadlebzo.github.io/reading-notes/Code_301_Class_14)| -->
 
 ### Code 401 - Advanced Software Development
