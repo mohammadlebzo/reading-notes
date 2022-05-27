@@ -62,3 +62,4 @@
 
 | **Name of The Read** | **Link** |
 |------------------|------|
+|Practice_Terminal|[Practice_Terminal](https://mohammadlebzo.github.io/reading-notes/Practice_Terminal)|
