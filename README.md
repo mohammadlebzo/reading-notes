@@ -64,3 +64,4 @@
 |Terminal Practice|[Link](https://mohammadlebzo.github.io/reading-notes/Advanced-SD-Python/practice_Terminal)|
 |Relational DB SQL|[Link](https://mohammadlebzo.github.io/reading-notes/Advanced-SD-Python/relational_databases_sql)|
 |Read: Class 01|[Link](https://mohammadlebzo.github.io/reading-notes/Advanced-SD-Python/read_class_01)|
+|Read: Class 02|[Link](https://mohammadlebzo.github.io/reading-notes/Advanced-SD-Python/read_class_02)|
