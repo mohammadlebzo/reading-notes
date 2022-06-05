@@ -66,3 +66,4 @@
 |Read: Class 01|[Link](https://mohammadlebzo.github.io/reading-notes/Advanced-SD-Python/read_class_01)|
 |Read: Class 02|[Link](https://mohammadlebzo.github.io/reading-notes/Advanced-SD-Python/read_class_02)|
 |Read: Class 03|[Link](https://mohammadlebzo.github.io/reading-notes/Advanced-SD-Python/read_class_03)|
+|Read: Class 04|[Link](https://mohammadlebzo.github.io/reading-notes/Advanced-SD-Python/read_class_04)|
