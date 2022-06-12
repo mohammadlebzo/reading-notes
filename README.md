@@ -69,3 +69,4 @@
 |Read: Class 04|[Link](https://mohammadlebzo.github.io/reading-notes/Advanced-SD-Python/read_class_04)|
 |Read: Linked Lists|[Link](https://mohammadlebzo.github.io/reading-notes/Advanced-SD-Python/read_linked_lists)|
 |Read: Class 06|[Link](https://mohammadlebzo.github.io/reading-notes/Advanced-SD-Python/read_class_06)|
+|Read: Class 07|[Link](https://mohammadlebzo.github.io/reading-notes/Advanced-SD-Python/read_class_07)|
