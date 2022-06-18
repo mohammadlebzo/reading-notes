@@ -8,7 +8,7 @@ In programming, to access a variable or a function you should be within it's sco
 
 ### ***Using the LEGB Rule for Python Scope***
 
-The letters stand for **Local**, **Enclosing**, **Global**, and **Built-in**, which are the python scope for names, but I will currently only be focussing on the **Local** and **Global**.
+The letters stand for **Local**, **Enclosing**, **Global**, and **Built-in**, which are the python scope for names, currently I will only be mentioning on the **Global** and somthing else called **nonlocal**, but first lets look at **locals** and **globals**.
 
 - **Local/function scope**: this is the body of any python function, where all the variables defined within it are only access by that scope.
 
@@ -39,10 +39,23 @@ def funcation():
 funcation()
 ```
 
+Global variables can be modified from any place in the python program they are included in but it's considered a bad practice to do so, as it may lead to difficulties in debugging the code, and unusable hard to understand code, and thats why it is recommended to use local names rather than global names, and to do so you need to:
+
+- Write functions that self-contained and use local names rather than global names.
+- Avoid modifying global name in your programs.
+- Avoid cross-module modifications for variable names.
+- Use global names as constants in your programs.
+
 ### ***Modifying the Behavior of a Python Scope***
 
+**The global Statement**:
 
+Using this statement allows you to define a list of names that are going to be treated as global names, but of course this is generally a bad practice and shouldn't be used as it may lead to buggy code.
+
+**The nonlocal Statement**:
+
+These can be accessed just like global names, but the difference is that these can't be assigned nor updated, in order modify them you need to use the **"nonlocal"** statement first, 
 
 ## Things I want to know more about
 
-None.
+- nonlocals.
