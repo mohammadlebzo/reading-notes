@@ -73,3 +73,4 @@
 |Read: Class 08|[Link](https://mohammadlebzo.github.io/reading-notes/Advanced-SD-Python/read_class_08)|
 |Read: Class 09|[Link](https://mohammadlebzo.github.io/reading-notes/Advanced-SD-Python/read_class_09)|
 |Read: Stacks & Queues|[Link](https://mohammadlebzo.github.io/reading-notes/Advanced-SD-Python/read_stacks_&_queues)|
+|Read: Class 11|[Link](https://mohammadlebzo.github.io/reading-notes/Advanced-SD-Python/read_class_11)|
