@@ -75,3 +75,4 @@
 |Read: Stacks & Queues|[Link](https://mohammadlebzo.github.io/reading-notes/Advanced-SD-Python/read_stacks_&_queues)|
 |Read: Class 11|[Link](https://mohammadlebzo.github.io/reading-notes/Advanced-SD-Python/read_class_11)|
 |Read: Class 12|[Link](https://mohammadlebzo.github.io/reading-notes/Advanced-SD-Python/read_class_12)|
+|Read: Class 13|[Link](https://mohammadlebzo.github.io/reading-notes/Advanced-SD-Python/read_class_13)|
