@@ -2,7 +2,9 @@
 
 ## Linear regression in Python
 
-First in order to use linear regression in Python we need to import it:
+First **what is linear regression**? It is a process to find relationships between variables.
+
+In order to use linear regression in Python we need to import it:
 
     from sklearn.linear_model import LinearRegression
 
