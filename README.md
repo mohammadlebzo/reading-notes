@@ -79,3 +79,4 @@
 |Read: Class 14|[Link](https://mohammadlebzo.github.io/reading-notes/Advanced-SD-Python/read_class_14)|
 |Read: Trees|[Link](https://mohammadlebzo.github.io/reading-notes/Advanced-SD-Python/read_trees)|
 |Read: Class 16|[Link](https://mohammadlebzo.github.io/reading-notes/Advanced-SD-Python/read_class_16)|
+|Read: Class 17|[Link](https://mohammadlebzo.github.io/reading-notes/Advanced-SD-Python/read_class_17)|
