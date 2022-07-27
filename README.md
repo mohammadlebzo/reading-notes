@@ -83,3 +83,4 @@
 |Read: Class 18|[Link](https://mohammadlebzo.github.io/reading-notes/Advanced-SD-Python/read_class_18)|
 |Read: Class 26|[Link](https://mohammadlebzo.github.io/reading-notes/Advanced-SD-Python/read_class_26)|
 |Read: Class 27|[Link](https://mohammadlebzo.github.io/reading-notes/Advanced-SD-Python/read_class_27)|
+|Read: Class 28|[Link](https://mohammadlebzo.github.io/reading-notes/Advanced-SD-Python/read_class_28)|
