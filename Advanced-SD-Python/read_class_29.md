@@ -58,8 +58,8 @@ In order to do that we need to do a couple of things:
 
 - Create a home template that will hold the log in stuff, and reference it in `settings.py`, ex:
 
-    LOGIN_REDIRECT_URL = "home"
-    LOGOUT_REDIRECT_URL = "home"
+        LOGIN_REDIRECT_URL = "home"
+        LOGOUT_REDIRECT_URL = "home"
 
 The rest is up to you as the developer to add view and shap the output.
 
