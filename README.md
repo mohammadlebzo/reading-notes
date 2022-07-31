@@ -85,4 +85,4 @@
 |Read: Class 27|[Link](https://mohammadlebzo.github.io/reading-notes/Advanced-SD-Python/read_class_27)|
 |Read: Class 28|[Link](https://mohammadlebzo.github.io/reading-notes/Advanced-SD-Python/read_class_28)|
 |Read: Class 29|[Link](https://mohammadlebzo.github.io/reading-notes/Advanced-SD-Python/read_class_29)|
-|Read: Hash Tables|[Link](https://mohammadlebzo.github.io/reading-notes/Advanced-SD-Python/read_hash_table)|
+|Read: Hash Tables|[Link](https://mohammadlebzo.github.io/reading-notes/Advanced-SD-Python/read_hash_tables)|
