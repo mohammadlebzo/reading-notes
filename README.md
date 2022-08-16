@@ -90,3 +90,4 @@
 |Read: Class 32|[Link](https://mohammadlebzo.github.io/reading-notes/Advanced-SD-Python/read_class_32)|
 |Read: Class 33|[Link](https://mohammadlebzo.github.io/reading-notes/Advanced-SD-Python/read_class_33)|
 |Read: Class 34|[Link](https://mohammadlebzo.github.io/reading-notes/Advanced-SD-Python/read_class_34)|
+|Read: Graphs|[Link](https://mohammadlebzo.github.io/reading-notes/Advanced-SD-Python/read_graphs)|
